@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="github-header-image.png"  />
-</div>
-
-###
-
 <p align="left">
   <h1>Hi there 🤙</h1>
   <h4>I'm Daniel, a Systems Engineer who is passionate about building mobile apps with Flutter. I also hold my own well in frontend, backend (especially with Go) and some DevOps. I'm always exploring new technologies and learning more every day!</h3>
