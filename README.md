@@ -4,7 +4,14 @@
 
 ###
 
-<p align="left">📖<br>📖<br>📖</p>
+<p align="left">
+  <h1>Hi there 🤙</h1>
+  <h4>I'm Daniel, a Systems Engineer who is passionate about building mobile apps with Flutter. I also hold my own well in frontend, backend (especially with Go) and some DevOps. I'm always exploring new technologies and learning more every day!</h3>
+  <ul>
+  <li>📖 I am currently planning the development of Arbitus, an application to manage AI agents.</li>
+  <li>🦙 I recently created a program to read PDF documents and ask you questions with AI, you can check it out <a href="https://github.com/Jdcabreradev/local-pdf">here</a>.</li>
+  <li>📱 I'm always looking to create new apps & projects! If you are interested contact me: <a href="mailto:jdev.cabrerac@gmail.com">jdev.cabrerac@gmail.com</a></li>
+</ul>
 
 ###
 
@@ -68,21 +75,6 @@
   <img src="https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge" height="30" alt="webflow logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
-</div>
-
-###
-
-<h1 align="left">📡Stay in touch</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jdkdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:jdev.cabrerac@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
